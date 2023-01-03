@@ -20,7 +20,7 @@
     align-items: center;
     background-color: var(--containerclr);
     position: relative;
-    background-image: url(/bg-pattern-top.svg),url(/bg-pattern-bottom.svg);
+    background-image: url(bg-pattern-top.svg),url(bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: right 48vw bottom 40vh , left 45vw top 44vh;
     font-family: 'Kumbh Sans', sans-serif;
